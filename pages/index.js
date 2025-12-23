@@ -11,7 +11,7 @@ export default function Home() {
       <main className="video-wrapper">
         <iframe
           className="video-embed"
-          src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+          src="https://www.youtube.com/watch?v=2ZunZvCAF7s"
           title="YouTube video"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
